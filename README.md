@@ -1,4 +1,5 @@
 Elevvo Internship – Machine Learning Projects
+
 📌 Project Overview
 
 This repository documents a series of machine learning tasks completed during the Elevvo Internship. The projects encompass supervised and unsupervised learning, time series forecasting, and computer vision applications, utilizing real-world datasets and industry best practices.
